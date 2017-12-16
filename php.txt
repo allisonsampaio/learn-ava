@@ -1,0 +1,8 @@
+
+Curso POO - https://youtu.be/djYrOHJc5Jg
+
+Laravel - https://laravel.com/
+Composer - https://getcomposer.org/
+Slim - https://www.slimframework.com/
+
+Design Patterns 
